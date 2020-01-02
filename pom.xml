@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lt</groupId>
-	<artifactId>position-tracker</artifactId>
+	<artifactId>lt-position-tracker</artifactId>
 	<version>0.0.1-RELEASE</version>
 	<packaging>jar</packaging>
 
-	<name>position-tracker</name>
+	<name>lt-position-tracker</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
